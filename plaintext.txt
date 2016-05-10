@@ -1,0 +1,4 @@
+Using Python, Java or C, write a program that implements the Vigenere cipher.
+You may not use any crypt libraries. Encrypt this paragraph, then decrypt it to
+prove it works. There will be one parameter passed which is the key. The second
+parameter will be the input character string.

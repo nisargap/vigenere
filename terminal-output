@@ -1,0 +1,26 @@
+Script started on Sat May  7 21:36:05 2016
+[?1034hbash-3.2$ ./ve[Kigenere mykey[K[K[K[K[Kthi[K[K[Ksomekey verylongwordplaintext\longwordplaintext longwordplaintext[C[C[C[C[C[C[C[C[1Pplaintext[1Pplaintext[1Pplaintext[1Pplaintext[1Pplaintext[1Pplaintext[1Pplaintext[1Pplaintextsplaintexthplaintextoplaintextrplaintexttplaintext\plaintext plaintext[C[C[C[C[C[C[C[C[C
+Ciphertext: NSDC CLMJH BPKMLLSJX
+Plaintext: VERY SHORT PLAINTEXT
+bash-3.2$ ./vigenere
+Enter a key: 
+te  somekey
+Your key is: somekey
+Enter a filename: 
+plaintext.txt
+-----------CIPHERTEXT-----------
+MGURQ TWLVAR, TETS CD G, GVGLS M TBSEJOY XRER AABPOQCFHE XRI TAUQROVC UWBLOV.
+WGI YEI RML IEI KRW UFKTD PGTFMVSIQ. WBOVITR LVUW ZEPSUDEZL, RZSZ HOGPQDF MD XM
+HFAZO MR OCDOC. XFWFQ ASPJ TS ARO TYJOYIDIP HOEWOH UZWOL SW RZS WII. XFW GQGYRB
+HODEWIRWF IMVP ZW HTI SRNMH OLKVYUHQV CXPABS.
+
+-----------PLAINTEXT-----------
+USING PYTHON, JAVA OR C, WRITE A PROGRAM THAT IMPLEMENTS THE VIGENERE CIPHER.
+YOU MAY NOT USE ANY CRYPT LIBRARIES. ENCRYPT THIS PARAGRAPH, THEN DECRYPT IT TO
+PROVE IT WORKS. THERE WILL BE ONE PARAMETER PASSED WHICH IS THE KEY. THE SECOND
+PARAMETER WILL BE THE INPUT CHARACTER STRING.
+
+bash-3.2$ exit
+exit
+
+Script done on Sat May  7 21:37:02 2016
